@@ -1,6 +1,6 @@
 # iphoneyum
 
-A Windows command-line tool for backing up all media from an iPhone over USB, directly to a folder on your PC. No iTunes. No iCloud. No third-party software.
+A Windows command-line tool for backing up all media from an iPhone over USB, directly to a folder on your PC. No iTunes. No iCloud. No third-party software. 100% Vibe coded in an hour and a half of frustration.
 
 Built on the Windows Portable Devices (WPD) API using direct MTP access, which gives reliable streaming transfers with real-time progress per file.
 
